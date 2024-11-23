@@ -1,0 +1,7 @@
+node_modules
+
+#build result
+dist
+docs/.vuepress/.temp
+docs/.vuepress/.cache
+docs.vuepress/dist
